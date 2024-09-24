@@ -1,0 +1,14 @@
+
+-menu
+  -escape button opens a panel that has status, inventory and exit
+  -status and inventory screens are shells that just have stuff like hp and the item amounts
+
+-refine map creation
+  -regression test all scenarios and test for bugs
+  -plan potential changes
+
+-set up backend
+
+-save functionality
+
+-create shell for battle/main game mechanic interlude
